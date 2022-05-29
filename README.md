@@ -49,3 +49,9 @@ Caso queira ver a documentação ou ter mais informações <a href="https://viac
 <h1> Incompatibilidades </h1>
 A primeira incompatibilidade é que por se tratar de uma API que faz uma consulta no banco de dados, pode causar algum erro caso a estrutura SQL esteja errada.<br><br>
 Dependendo da versão do PHP também pode causar algum erro.
+
+<br><br>
+<br><br>
+
+Novamente, desculpa por algum erro de escrita, é madrugada e eu to com muito sono
+Repositorio feito por Matheus
